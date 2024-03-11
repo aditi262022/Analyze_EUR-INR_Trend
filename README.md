@@ -1,9 +1,9 @@
 # Analyze_EUR-INR_Trend
 Analyze and predict the trend of EUR/INR for next week
 
-Welcome to the analysis of EUR/INR trends using technical indicators. 
-
-Assignment Overview:
+Project 1 of the Data Analyst Portfolio involves Python-based web scraping for data acquisition, followed by SQL-driven exploration. 
+The resultant insights are visualized through PowerBI dashboard. 
+View the dashboard here: https://shorturl.at/bqEN3
 
 -> Data Collection:
     Scrutinize EUR/INR currency data sourced from Yahoo Finance, encompassing the period from January 1, 2023, to February 16, 2024.
